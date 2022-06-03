@@ -5,3 +5,29 @@ date: today
 format: html
 editor: visual
 ---
+
+###### Laster inn pakker
+
+```{r}
+library(tidyverse)
+library(patchwork)
+library(here)
+library(ggthemes)
+library(scales)
+library(janitor)
+library(ggplot2)
+library(readxl)
+```
+
+##### Laster inn data 
+
+```{r}
+cod <- read_excel(here("rawdata", "data.xlsx"))
+
+
+```
+
+```{r}
+
+
+```
