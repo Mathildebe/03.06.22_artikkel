@@ -1,0 +1,7 @@
+---
+title: "artikkel_cod"
+author: "mathilde"
+date: today
+format: html
+editor: visual
+---
